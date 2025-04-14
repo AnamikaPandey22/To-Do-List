@@ -1,45 +1,62 @@
-# To-Do List (C++ Project)
+# 📝 To-Do List Website
 
-This is a simple command-line To-Do List application built using C++.  
-It allows users to add, view, and delete tasks from their list.
+A simple and responsive web-based To-Do List application built using **HTML**, **CSS**, and **JavaScript**. Users can add and delete tasks to manage their daily activities.
 
-## Features
+---
 
-- Add new tasks  
-- View all tasks  
-- Delete tasks  
-- Exit the application
+## 🚀 Features
 
-## How to Run
+- ✅ Add new tasks
+- ❌ Delete completed/unwanted tasks
+- 📱 Responsive design (mobile-friendly)
+- 💾 Tasks stored temporarily (page reload clears the list)
 
-1. Compile the file using g++:
-g++ todo.cpp -o todo
+---
 
-2. Run the application:
-./todo
+## 📸 Preview
 
-## Demo
+![To-Do App Screenshot](screenshot.png)  
+*(Add your own screenshot here if you want)*
 
---- To-Do List Menu ---
+---
 
-Add Task
+## 🛠️ Tech Stack
 
-View Tasks
+- **Frontend**: HTML, CSS, JavaScript
+- **Editor**: VS Code
 
-Delete Task
+---
 
-Exit
+## 📁 Folder Structure
+📂 to-do-list/ ├── index.html ├── style.css └── script.js
 
+---
 
-## Skills Used
+## 🧠 What I Learned
 
-- HTML 
-- CSS  
-- Js  
+- DOM manipulation using JavaScript
+- Event handling (`addEventListener`)
+- Basic web page styling and layout
+- How to build responsive UI using CSS
 
-## Author
+---
 
-Created by [Anamika Pandey]
-gmail:[Anamika221105@gmail.com](mailto:anamika221105@gmail.com)
+## 🧩 Future Improvements
 
+- Save tasks using localStorage  
+- Add task edit functionality  
+- Dark/light theme toggle  
+
+---
+
+## 🔗 Live Demo
+
+[Click here to view live](https://anamikapandey22.github.io/To-Do-List/) *(optional – if hosted on GitHub Pages)*
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by [Anamika]  
+[GitHub Profile](https://github.com/AnamikaPandey22)
 
