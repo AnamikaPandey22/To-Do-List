@@ -51,7 +51,7 @@ A simple and responsive web-based To-Do List application built using **HTML**, *
 
 ## 🔗 Live Demo
 
-[Click here to view live](https://anamikapandey22.github.io/To-Do-List/) *(optional – if hosted on GitHub Pages)*
+[Click here to view live](https://anamikapandey22.github.io/To-Do-List/) 
 
 ---
 
